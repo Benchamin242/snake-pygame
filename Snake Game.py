@@ -27,6 +27,7 @@ if check_errors[1] > 0:
     sys.exit(-1)
 else:
     print('[+] Game successfully initialised')
+    print("Hello")
 
 
 # Initialise game window
